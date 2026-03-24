@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629608871222",
+    "project_id": "controle-escola-d4b66",
+    "storage_bucket": "controle-escola-d4b66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629608871222:android:a7701aabb19a9e880f6f97",
+        "android_client_info": {
+          "package_name": "com.example.controle_horario_escola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSq22GJqxgrPqHQlB3iKaNd7rQ_tACpj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
